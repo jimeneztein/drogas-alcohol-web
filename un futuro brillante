@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un Futuro Brillante: Evita las Drogas y el Alcohol, Vive tu Mejor Vida</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Un Futuro Brillante</h1>
+        <p>Evita las Drogas y el Alcohol, Vive tu Mejor Vida</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#drogas">Drogas</a></li>
+            <li><a href="#alcohol">Alcohol</a></li>
+            <li><a href="#efectos">Efectos en Adolescentes</a></li>
+            <li><a href="#prevencion">Prevención</a></li>
+            <li><a href="#estadisticas">Estadísticas</a></li>
+            <li><a href="#foro">Foro</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="drogas">
+            <h2>¿Qué son las Drogas?</h2>
+            <img src="images/drogas.jpg" alt="Imagen sobre drogas">
+            <p>Las drogas son sustancias que, al ser introducidas en el cuerpo, pueden alterar el sistema nervioso central y afectar la percepción, el estado de ánimo y el comportamiento. Pueden ser naturales o sintéticas, y su consumo puede llevar a la dependencia física y psicológica.</p>
+            <p>Algunas drogas comunes incluyen:</p>
+            <ul>
+                <li><strong>Marihuana:</strong> Planta cuyas hojas, flores y resina se utilizan para obtener efectos psicoactivos.</li>
+                <li><strong>Cocaína:</strong> Estimulante potente y adictivo derivado de las hojas de la planta de coca.</li>
+                <li><strong>Heroína:</strong> Droga opiácea que se usa como analgésico y recreativo, altamente adictiva.</li>
+                <li><strong>Éxtasis:</strong> Droga sintética que altera el estado de ánimo y la percepción.</li>
+            </ul>
+        </section>
+        <section id="alcohol">
+            <h2>¿Qué es el Alcohol?</h2>
+            <img src="images/alcohol.jpg" alt="Imagen sobre alcohol">
+            <p>El alcohol es una sustancia psicoactiva con propiedades dependientes que se consume ampliamente en muchas culturas y tiene efectos adversos en la salud. Su consumo excesivo puede causar una variedad de problemas de salud, incluidos daños en el hígado, enfermedades cardiovasculares y problemas de salud mental.</p>
+            <p>El consumo de alcohol es particularmente peligroso para los adolescentes porque sus cerebros todavía están en desarrollo. Los efectos a corto plazo del alcohol incluyen:</p>
+            <ul>
+                <li>Disminución de las inhibiciones</li>
+                <li>Deterioro de la coordinación motora</li>
+                <li>Alteración del juicio</li>
+            </ul>
+            <p>A largo plazo, el consumo excesivo de alcohol puede llevar a la dependencia y a problemas graves de salud.</p>
+        </section>
+        <section id="efectos">
+            <h2>Efectos de las Drogas y el Alcohol en los Adolescentes</h2>
+            <img src="images/efectos.jpg" alt="Imagen de efectos en adolescentes">
+            <h3>Efectos Inmediatos</h3>
+            <ul>
+                <li><strong>Drogas:</strong> Pueden causar euforia, cambios de humor, ansiedad, paranoia y comportamientos erráticos.</li>
+                <li><strong>Alcohol:</strong> Puede llevar a la desinhibición, pérdida de coordinación, vómitos y pérdida de conciencia.</li>
+            </ul>
+            <h3>Efectos a Largo Plazo</h3>
+            <ul>
+                <li><strong>Drogas:</strong> Adicción, deterioro cognitivo, problemas de salud mental, daño a órganos internos (como hígado y riñones) y riesgo de sobredosis.</li>
+                <li><strong>Alcohol:</strong> Alcoholismo, problemas hepáticos, enfermedades cardiovasculares, daños cerebrales y problemas de salud mental.</li>
+            </ul>
+            <h3>Efectos en el Desarrollo del Adolescente</h3>
+            <p>El cerebro de los adolescentes aún está en desarrollo, y el consumo de drogas y alcohol puede interferir con este proceso, resultando en:</p>
+            <ul>
+                <li>Problemas de memoria y aprendizaje</li>
+                <li>Alteraciones en el juicio y toma de decisiones</li>
+                <li>Aumento del riesgo de desarrollar adicciones en el futuro</li>
+                <li>Problemas emocionales y de comportamiento</li>
+            </ul>
+        </section>
+        <section id="prevencion">
+            <h2>Consejos para Prevenir el Consumo</h2>
+            <img src="images/prevencion.jpg" alt="Imagen de prevención">
+            <h3>Consejos para Padres y Adultos</h3>
+            <p>Prevenir el consumo de drogas y alcohol en adolescentes es crucial para su desarrollo saludable. Aquí hay algunos consejos para padres, educadores y comunidades:</p>
+            <ul>
+                <li>Habla abiertamente con tus hijos sobre los riesgos del consumo de drogas y alcohol.</li>
+                <li>Fomenta actividades saludables y alternativas recreativas.</li>
+                <li>Establece reglas claras y coherentes en casa.</li>
+                <li>Conoce a los amigos de tus hijos y sus familias.</li>
+                <li>Sé un modelo a seguir con tus propios hábitos.</li>
+                <li>Educa a tus hijos sobre cómo resistir la presión de sus compañeros.</li>
+            </ul>
+            <h3>Consejos para Adolescentes</h3>
+            <p>Como adolescente, tienes el poder de tomar decisiones saludables y evitar el consumo de drogas y alcohol. Aquí hay algunos consejos para ayudarte:</p>
+            <ul>
+                <li>Infórmate sobre los efectos negativos de las drogas y el alcohol en tu cuerpo y mente.</li>
+                <li>Aprende a decir "no" de manera firme pero respetuosa si alguien te ofrece drogas o alcohol.</li>
+                <li>Rodéate de amigos que compartan tus valores y que te apoyen en tus decisiones saludables.</li>
+                <li>Busca actividades y pasatiempos que te apasionen y te mantengan ocupado y comprometido.</li>
+                <li>No tengas miedo de pedir ayuda a un adulto de confianza si te sientes presionado a consumir sustancias.</li>
+                <li>Recuerda que es normal sentirse curioso, pero es importante tomar decisiones que beneficien tu salud y bienestar a largo plazo.</li>
+            </ul>
+        </section>
+        <section id="estadisticas">
+            <h2>Estadísticas sobre el Consumo de Drogas y Alcohol en Adolescentes</h2>
+            <img src="images/estadisticas.jpg" alt="Gráficos de estadísticas">
+            <p>El consumo de drogas y alcohol en adolescentes es un problema serio y los datos recientes muestran tendencias preocupantes. Aquí hay algunas estadísticas clave:</p>
+            <ul>
+                <li>Según el <strong>Informe Mundial sobre las Drogas 2021</strong>, el 5.6% de la población global entre 15 y 64 años consumió drogas al menos una vez en el último año.</li>
+                <li>En Estados Unidos, <strong>el 30% de los estudiantes de secundaria</strong> han probado marihuana antes de terminar la escuela.</li>
+                <li>Un estudio de la <strong>Organización Mundial de la Salud (OMS)</strong> indica que el consumo de alcohol comienza a edades cada vez más tempranas, con un promedio de inicio a los 13 años.</li>
+                <li>El <strong>Centro para el Control y la Prevención de Enfermedades (CDC)</strong> informa que el consumo de alcohol es responsable de más de 4,300 muertes de menores cada año en Estados Unidos.</li>
+            </ul>
+        </section>
+        <section id="foro">
+            <h2>Foro</h2>
+            <p>¿Qué opinas de nuestro sitio web? ¿Llama la atención? ¿Sirve para informar? Deja tus comentarios y comparte tus experiencias, preguntas o ideas para mejorar:</p>
+            <form id="commentForm">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="age">Edad:</label>
+                <input type="number" id="age" name="age" required>
+                <label for="comment">Comentario:</label>
+                <textarea id="comment" name="comment" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+            <div
